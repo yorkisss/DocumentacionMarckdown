@@ -270,7 +270,7 @@ En el cuadro de herramienta se añade el control de DataGridView.
 <img src="image-13.png" width="300" height="300">
 
 ```
-**Para el DataGridView**
+### 📋Para el DataGridView
 
 
 <img src="image-15.png" width="300" height="50"><br>
@@ -279,6 +279,7 @@ En el cuadro de herramienta se añade el control de DataGridView.
 <img src="image-16.png" width="250" height="300">
 
 Aquí se hace la conexión de la tabla *“Factura”*, para que aparezca en el DataGrid.
+
 ![alt text](image-17.png)
 
 ![alt text](image-18.png)
@@ -286,11 +287,14 @@ Se  crea automaticamente el espacio para hacer el *"TableAdapter"*.
 <img src="image-19.png" width="300" height="200">
 
 Luego, en el mismo espacio hacemos click derecho, para agrgar *"TableAdapter"*.
+
 ![alt text](image-20.png "Añadir el TableAdapter")
 
 <img src="image-21.png" width="400" height="280">
 
 Se hace la conexión con la base de datos.
+
+
 <img src="image-22.png" width="300" height="300">
 
 <img src="image-23.png" width="300" height="300">
@@ -300,6 +304,7 @@ Se hace la conexión con la base de datos.
 ![alt text](image-25.png)
 
 En la parte inferior se vizualiza en nombre del *DataSet*.
+
 <img src="image-27.png" width="300" height="300">
 
 ### 🔎Aparicion de la tabla *"Factura"* con sus tablas y campos.
